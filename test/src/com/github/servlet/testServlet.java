@@ -17,6 +17,6 @@ public class testServlet extends HttpServlet {
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        System.out.println("成功进入了servlet");
+        System.out.println("成功进入了servlet11");
     }
 }
